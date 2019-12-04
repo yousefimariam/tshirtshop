@@ -1,0 +1,32 @@
+[
+    {
+        "name": "adidas",
+        "description": "hoodie",
+        "price": 199,
+        "vat_percent": 20
+    },
+    {
+        "name": "nike",
+        "description": "tshirt",
+        "price": 159,
+        "vat_percent": 20
+    },
+    {
+        "name": "levis",
+        "description": "tshirt",
+        "price": 239,
+        "vat_percent": 20
+    },
+    {
+        "name": "puma",
+        "description": "tshirt",
+        "price": 199,
+        "vat_percent": 20
+    },
+    {
+        "name": "gant",
+        "description": "hoodie",
+        "price": 499,
+        "vat_percent": 20
+    }
+]

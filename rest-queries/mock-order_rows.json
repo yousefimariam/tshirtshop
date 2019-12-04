@@ -1,0 +1,37 @@
+[
+    {
+        "quantity": 5,
+        "ok_to_share": 1,
+        "text": "love mom",
+        "image": "mom.jpg",
+        "material": "cotton"
+    },
+    {
+        "quantity": 1,
+        "ok_to_share": 1,
+        "text": "I am mom",
+        "image": "0",
+        "material": "linen"
+    },
+    {
+        "quantity": 1,
+        "ok_to_share": 0,
+        "text": "#1 dad",
+        "image": "dad.jpg",
+        "material": "cotton"
+      },
+      {
+        "quantity": 3,
+        "ok_to_share": 1,
+        "text": "baby",
+        "image": "baby.jpg",
+        "material": "cotton"
+      },
+      {
+        "quantity": 1,
+        "ok_to_share": 1,
+        "text": "baby boy",
+        "image": "boy.jpg",
+        "material": "cotton"
+      }
+]
